@@ -1,9 +1,4 @@
-#TP1
 # Date : 25-03-2024
-# Nom : 
-# Farah ROMDHANE (Matricule :20288662) 
-# Sara EL AHOUEL(Matricule : 20257092)
-
 
 #Fonction antisens: Cette fonction prend en entrée un brin d'ADN et renvoie son brin complémentaire antisens.
 
