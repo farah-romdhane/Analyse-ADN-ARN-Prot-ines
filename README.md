@@ -86,6 +86,7 @@ tests unitaires configurés.
       associatif, chaque acide aminé étant représenté par une seule lettre. 
 
 **Spécifications**
+
 *Fonction antisens(brinAdn)* 
 Part de brin ADN fourni et renvoie le brin d’ADN complémentaire. 
 
